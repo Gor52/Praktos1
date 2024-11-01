@@ -1,0 +1,18 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 89: menu statement expects a non-empty block.
+    menu:
+        ^
+
+File "game/script.rpy", line 91: expected statement.
+    "Да, конечно!.":
+                   ^
+
+File "game/script.rpy", line 94: expected statement.
+    "Нет, не хочу. Я стесняюсь!":
+                                ^
+
+Ren'Py Version: Ren'Py 8.3.2.24090902
+Fri Nov  1 00:18:40 2024
